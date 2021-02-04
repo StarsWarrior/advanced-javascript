@@ -4,6 +4,7 @@ const students = [
     {id: 41, name: 'faizul islam fuad'},
     {id: 51, name: 'shariful islam'},
 ]
+// I'LL Written a for loop someday
 
 const names = students.map( s => s.name);
 const ids = students.map(s => s.id);
